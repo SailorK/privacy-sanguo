@@ -74,7 +74,7 @@ layout: default
 ## 九、聯繫我們
 
 如您對本隱私協議有任何疑問或建議，請通過以下方式聯繫我們：
-- 客服郵箱：skyrain@ai1wan.com
-- 客服電話：0085297050485
+- 客服郵箱：euphoriquesa@gmail.com
+- 客服電話：+27 0842898316
 
 本協議最終解釋權歸 Euphorique Pty ltd 所有。
